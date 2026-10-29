@@ -1,0 +1,6 @@
+{
+  "name": "DRetixa - Explainable Diabetic Retinopathy Detection",
+  "description": "Deep learning system for 5-stage Diabetic Retinopathy classification with Grad-CAM explainability, anatomical localization, and lesion analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
